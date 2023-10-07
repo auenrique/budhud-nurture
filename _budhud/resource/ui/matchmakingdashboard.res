@@ -164,8 +164,8 @@
         {
             "BGPanel"
             {
-                "bgcolor_override"                                  "bh_Theme_BG20"
-                "border"                                            "bh_b_NESW"
+                "bgcolor_override"                                  "bh_blank"
+                "border"                                            "bh_blank"
                 "wide"                                              "f0"
                 "tall"                                              "f0"
             }
