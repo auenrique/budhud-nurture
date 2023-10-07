@@ -119,7 +119,7 @@
         "wide"                                                      "250"
         "tall"                                                      "150"
         "labeltext"                                                 "#TF_IndividualUberchargesMinHUD"
-        "font"                                                      "bh_Font40DropShadow"
+        "font"                                                      "bh_Medic"
         "fgcolor"                                                   "bh_white"
         "textalignment"                                             "center"
     }
@@ -133,7 +133,7 @@
         "wide"                                                      "250"
         "tall"                                                      "150"
         "textAlignment"                                             "center"
-        "font"                                                      "bh_Font40DropShadow"
+        "font"                                                      "bh_Medic"
         "fgcolor"                                                   "bh_white"
     }
 
