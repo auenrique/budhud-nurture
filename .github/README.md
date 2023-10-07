@@ -4,7 +4,7 @@ Modified version of budhud, made by nurture/ideknoo
 ## Changes
 ### Fonts
 * Roboto Bold - Health, Ammo, Ubercharge
-* Product Sans - Most text, chat
+* Lexend Deca - Most text, chat
 
 ### Main Menu & General Interface
 * New menu background (<a href="https://www.pixiv.net/en/artworks/100110793">Source</a>)
