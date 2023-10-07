@@ -206,10 +206,10 @@ Scheme
             "name"          "Crosshairs Regular"
         }
 
-        "14" // Product Sans
+        "14" // Lexend Deca
 		{
-			"font"			"resource/fonts/Product Sans.ttf"
-			"name"			"Product Sans"
+			"font"			"resource/fonts/Lexend Deca.ttf"
+			"name"			"Lexend Deca"
 		}
 
         "15" // Roboto Bold
