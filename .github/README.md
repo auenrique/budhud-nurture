@@ -22,3 +22,4 @@ Modified version of budhud, made by nurture/ideknoo
 ## Resources/Thanks
 * <a href="https://discord.gg/PTWkt3h">budhud Discord</a>
 * <a href="https://discord.com/invite/Hz3Q4Z8">huds.tf Discord</a>
+* <a href="https://github.com/rbjaxter/budhud">Support the original!</a>
