@@ -205,5 +205,17 @@ Scheme
             "font"          "resource/fonts/crosshairs-fog.ttf"
             "name"          "Crosshairs Regular"
         }
+
+        "14" // Product Sans
+		{
+			"font"			"resource/fonts/Product Sans.ttf"
+			"name"			"Product Sans"
+		}
+
+        "15" // Roboto Bold
+		{
+			"font"			"resource/fonts/Roboto Bold.ttf"
+			"name"			"Roboto Bold"
+		}
     }
 }
