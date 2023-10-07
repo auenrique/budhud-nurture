@@ -1047,7 +1047,7 @@
         "labeltext"                                                 ""
         "visible"                                                   "1"
         "enabled"                                                   "1"
-        "fillcolor"                                                 "bh_Theme_BG20"
+        "fillcolor"                                                 "bh_blank"
         "border"                                                    "bh_b_N"
         "image"                                                     ""
         "paintbackgroundtype"                                       "0"
@@ -1099,7 +1099,7 @@
 
         "ControlName"                                               "CExImageButton"
         "fieldName"                                                 "bh_budhudTitleShadow"
-        "labelText"                                                 "— budhud —"
+        "labelText"                                                 "— nurture —"
         "font"                                                      "bh_Font26"
 
         "xpos"                                                      "-1"

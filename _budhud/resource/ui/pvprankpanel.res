@@ -235,8 +235,8 @@
                 "tall"                                              "40"
                 "visible"                                           "1"
                 "proportionaltoparent"                              "0"
-                "border"                                            "bh_b_NEW"
-                "bgcolor_override"                                  "bh_BGStandard"
+                "border"                                            "bh_blank"
+                "bgcolor_override"                                  "bh_blank"
 
                 if_mini
                 {
@@ -449,14 +449,14 @@
                 {
                     "xpos"                                          "3"
                     "ypos"                                          "r25"
-                    "font"                                          "bh_Font10"
+                    "font"                                          "bh_CasualExp"
                 }
 
                 "NextLevelXPLabel"
                 {
                     "xpos"                                          "r103"
                     "ypos"                                          "r25"
-                    "font"                                          "bh_Font10"
+                    "font"                                          "bh_CasualExp"
                 }
 
                 "ProgressBarsContainer"

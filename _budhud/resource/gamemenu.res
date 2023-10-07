@@ -20,40 +20,41 @@
     "bh_Favorite1"
     {
         "label"                                                     ""
-        "command"                                                   "engine connect 162.248.93.239:27015"
+        "command"                                                   "engine connect 5.188.230.68:27015"
         "OnlyAtMenu"                                                "0"
-        "tooltip"                                                   "jump.tf | Beginners (Los Angeles)"
+        "tooltip"                                                   "uncletopia | hong kong"
     }
 
     "bh_Favorite2"
     {
         "label"                                                     ""
-        "command"                                                   "engine connect 74.91.113.87:27025"
+        "command"                                                   "engine map tr_walkway_rc2"
         "OnlyAtMenu"                                                "0"
-        "tooltip"                                                   "jumpacademy.tf | Beginners (Chicago)"
+        "tooltip"                                                   "start offline map | tr_walkway_rc2"
     }
 
     "bh_budhudTitle"
     {
-        "label"                                                     "— budhud —"
+        "label"                                                     "— nurture —"
         "command"                                                   "engine con_enable 1;showconsole;clear;
                                                                     echo ======================================================;
                                                                     echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
                                                                     echo ~~~~~~~~~~~~~~~~~ budhud, by Whisker ~~~~~~~~~~~~~~~~~;
+																	echo ~~~~~~~~~~~~~~ edits by nurture/ideknoo ~~~~~~~~~~~~~~;
                                                                     echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
                                                                     echo ======================================================;
                                                                     echo ~~~~~~~~~~~~ github.com/rbjaxter/budhud ~~~~~~~~~~~~~~;
                                                                     echo ~~~~~~~~~ steamcommunity.com/groups/budhud ~~~~~~~~~~~;
                                                                     echo ~~~~~~~~~~~~~ discord.com/invite/TkxNKU2 ~~~~~~~~~~~~~;
                                                                     echo ======================================================;
-                                                                    echo ~~~~~~~~ Please report bugs in the Discord! ~~~~~~~~~~;
-                                                                    echo ~ Thank you to everyone who actively uses my hud! ~~~~;
+                                                                    echo ~~~~~~~~~~ steamcommunity.com/id/ideknoo/ ~~~~~~~~~~~~;
+                                                                    echo ~~~~~~~~~~~~~~~~~ discord: nurtured ~~~~~~~~~~~~~~~~~~;
                                                                     echo ======================================================;
                                                                     echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
-                                                                    echo *~*~*~*~*~*~*~ ad astra per alas porci *~*~*~*~*~*~*~*;
+                                                                    echo *~*~*~*~* everything we need is already here *~*~*~*~*;
                                                                     echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
                                                                     echo ======================================================;"
-        "tooltip"                                                   "Updated October 2023"
+        "tooltip"                                                   "updated october 2023"
     }
 
     "bh_Streams"

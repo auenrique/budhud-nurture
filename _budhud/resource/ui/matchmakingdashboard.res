@@ -146,7 +146,7 @@
 
         "BGPanel"
         {
-            "bgcolor_override"                                      "bh_Theme_BG20"
+            "bgcolor_override"                                      "bh_blank"
             "border"                                                "bh_b_S"
             "xpos"                                                  "0"
             "wide"                                                  "f0"
