@@ -25,42 +25,42 @@ Scheme
         {
             "1"
             {
-                "name"                                              "Product Sans"
+                "name"                                              "Lexend Deca"
                 "tall"                                              "15"
                 "yres"                                              "480 599"
-				"dropshadow"										"0"
+				"dropshadow"										"1"
                 "antialias"                                         "1"
             }
             "2"
             {
-                "name"                                              "Product Sans"
+                "name"                                              "Lexend Deca"
                 "tall"                                              "17"
                 "yres"                                              "600 767"
-				"dropshadow"										"0"
+				"dropshadow"										"1"
                 "antialias"                                         "1"
             }
             "3"
             {
-                "name"                                              "Product Sans"
+                "name"                                              "Lexend Deca"
                 "tall"                                              "18"
                 "yres"                                              "768 1023"
-				"dropshadow"										"0"
+				"dropshadow"										"1"
                 "antialias"                                         "1"
             }
             "4"
             {
-                "name"                                              "Product Sans"
+                "name"                                              "Lexend Deca"
                 "tall"                                              "20"
                 "yres"                                              "1024 1199"
-				"dropshadow"										"0"
+				"dropshadow"										"1"
                 "antialias"                                         "1"
             }
             "5"
             {
-                "name"                                              "Product Sans"
+                "name"                                              "Lexend Deca"
                 "tall"                                              "25"
                 "yres"                                              "1200 10000"
-				"dropshadow"										"0"
+				"dropshadow"										"1"
                 "antialias"                                         "1"
             }
         }
