@@ -16,8 +16,8 @@ Modified version of budhud, made by nurture/ideknoo
 * Modified killfeed text (taken from <a href="https://github.com/Pigby/uwui">uwui</a>)
 
 ## Installation and Customization
-* Download ZIP and copy the 'budhud-nurture-master' folder to your `tf/custom` directory.
-* To change or remove the crosshair, go to `#customization/_enabled/bh_crosshairs.res`.
+* Download latest release ZIP and copy the 'budhud-nurture' folder to your `tf\custom` directory.
+* To change or remove the crosshair, go to `#customization\_enabled\bh_crosshairs.res`.
 
 ## Resources / Thanks
 * <a href="https://discord.gg/PTWkt3h">budhud Discord</a>
