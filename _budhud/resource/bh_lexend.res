@@ -30,8 +30,8 @@
 		{
 			"1"
 			{
-				"name"	"Roboto Bold"
-				"tall"	"40"
+				"name"	"Lexend Deca Bold"
+				"tall"	"48"
 				"weight"	"500"
 				"antialias"	"1"
 				"dropshadow"	"0"
@@ -42,8 +42,8 @@
 		{
 			"1"
 			{
-				"name"	"Roboto Bold"
-				"tall"	"24"
+				"name"	"Lexend Deca Bold"
+				"tall"	"28"
 				"weight"	"500"
 				"antialias"	"1"
 				"dropshadow"	"0"
@@ -54,8 +54,8 @@
 		{
 			"1"
 			{
-				"name"	"Roboto Bold"
-				"tall"	"24"
+				"name"	"Lexend Deca Bold"
+				"tall"	"28"
 				"weight"	"500"
 				"antialias"	"1"
 				"dropshadow"	"0"
@@ -66,8 +66,8 @@
 		{
 			"1"
 			{
-				"name"	"Roboto Bold"
-				"tall"	"40"
+				"name"	"Lexend Deca Bold"
+				"tall"	"48"
 				"weight"	"500"
 				"antialias"	"1"
 				"dropshadow"	"1"
@@ -1647,7 +1647,7 @@
 				"additive"	"0"
 			}
 		}
-		"Roboto Bold"
+		"Lexend Deca Bold"
 		{
 			"1"
 			{

@@ -212,10 +212,10 @@ Scheme
 			"name"			"Lexend Deca Larger"
 		}
 
-        "15" // Roboto Bold
+        "15" // Lexend Deca Bold
 		{
-			"font"			"resource/fonts/Roboto Bold.ttf"
-			"name"			"Roboto Bold"
+			"font"			"resource/fonts/Lexend Deca Bold.ttf"
+			"name"			"Lexend Deca Bold"
 		}
 		
 		"16" // Lexend Deca Light
