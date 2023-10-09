@@ -25,40 +25,40 @@ Scheme
         {
             "1"
             {
-                "name"                                              "Lexend Deca"
-                "tall"                                              "15"
+                "name"                                              "Lexend Deca Light"
+                "tall"                                              "16"
                 "yres"                                              "480 599"
 				"dropshadow"										"1"
                 "antialias"                                         "1"
             }
             "2"
             {
-                "name"                                              "Lexend Deca"
-                "tall"                                              "17"
+                "name"                                              "Lexend Deca Light"
+                "tall"                                              "18"
                 "yres"                                              "600 767"
 				"dropshadow"										"1"
                 "antialias"                                         "1"
             }
             "3"
             {
-                "name"                                              "Lexend Deca"
-                "tall"                                              "18"
+                "name"                                              "Lexend Deca Light"
+                "tall"                                              "20"
                 "yres"                                              "768 1023"
 				"dropshadow"										"1"
                 "antialias"                                         "1"
             }
             "4"
             {
-                "name"                                              "Lexend Deca"
-                "tall"                                              "20"
+                "name"                                              "Lexend Deca Light"
+                "tall"                                              "24"
                 "yres"                                              "1024 1199"
 				"dropshadow"										"1"
                 "antialias"                                         "1"
             }
             "5"
             {
-                "name"                                              "Lexend Deca"
-                "tall"                                              "25"
+                "name"                                              "Lexend Deca Light"
+                "tall"                                              "28"
                 "yres"                                              "1200 10000"
 				"dropshadow"										"1"
                 "antialias"                                         "1"

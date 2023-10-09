@@ -217,5 +217,11 @@ Scheme
 			"font"			"resource/fonts/Roboto Bold.ttf"
 			"name"			"Roboto Bold"
 		}
+		
+		"16" // Lexend Deca Light
+		{
+			"font"			"resource/fonts/Lexend Deca Light.ttf"
+			"name"			"Lexend Deca Light"
+		}
     }
 }
