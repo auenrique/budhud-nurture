@@ -70,7 +70,7 @@
 				"tall"	"48"
 				"weight"	"500"
 				"antialias"	"1"
-				"dropshadow"	"1"
+				"dropshadow"	"0"
 				"outline"	"0"
 			}
 		}
