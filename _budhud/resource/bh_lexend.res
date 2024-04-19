@@ -18,7 +18,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"0"
 				"outline"	"0"
@@ -30,8 +30,8 @@
 		{
 			"1"
 			{
-				"name"	"Roboto Bold"
-				"tall"	"40"
+				"name"	"Lexend Deca Bold"
+				"tall"	"48"
 				"weight"	"500"
 				"antialias"	"1"
 				"dropshadow"	"0"
@@ -42,8 +42,8 @@
 		{
 			"1"
 			{
-				"name"	"Roboto Bold"
-				"tall"	"24"
+				"name"	"Lexend Deca Bold"
+				"tall"	"28"
 				"weight"	"500"
 				"antialias"	"1"
 				"dropshadow"	"0"
@@ -54,8 +54,8 @@
 		{
 			"1"
 			{
-				"name"	"Roboto Bold"
-				"tall"	"24"
+				"name"	"Lexend Deca Bold"
+				"tall"	"28"
 				"weight"	"500"
 				"antialias"	"1"
 				"dropshadow"	"0"
@@ -66,11 +66,11 @@
 		{
 			"1"
 			{
-				"name"	"Roboto Bold"
-				"tall"	"40"
+				"name"	"Lexend Deca Bold"
+				"tall"	"48"
 				"weight"	"500"
 				"antialias"	"1"
-				"dropshadow"	"1"
+				"dropshadow"	"0"
 				"outline"	"0"
 			}
 		}
@@ -78,7 +78,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"6"
 				"weight"	"500"
 				"antialias"	"1"
@@ -90,7 +90,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"weight"	"500"
 				"antialias"	"1"
@@ -102,7 +102,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"500"
 				"antialias"	"1"
@@ -114,7 +114,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"500"
 				"antialias"	"1"
@@ -126,7 +126,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"500"
 				"antialias"	"1"
@@ -138,7 +138,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"16"
 				"weight"	"500"
 				"antialias"	"1"
@@ -150,7 +150,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"500"
 				"antialias"	"1"
@@ -162,7 +162,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"weight"	"500"
 				"antialias"	"1"
@@ -174,7 +174,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"22"
 				"weight"	"500"
 				"antialias"	"1"
@@ -186,7 +186,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"weight"	"500"
 				"antialias"	"1"
@@ -198,7 +198,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"26"
 				"weight"	"500"
 				"antialias"	"1"
@@ -210,7 +210,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"28"
 				"weight"	"500"
 				"antialias"	"1"
@@ -222,7 +222,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"30"
 				"weight"	"500"
 				"antialias"	"1"
@@ -234,7 +234,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"32"
 				"weight"	"500"
 				"antialias"	"1"
@@ -246,7 +246,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"36"
 				"weight"	"500"
 				"antialias"	"1"
@@ -258,7 +258,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"40"
 				"weight"	"500"
 				"antialias"	"1"
@@ -270,7 +270,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"48"
 				"weight"	"500"
 				"antialias"	"1"
@@ -282,7 +282,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"50"
 				"weight"	"500"
 				"antialias"	"1"
@@ -294,7 +294,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"60"
 				"weight"	"500"
 				"antialias"	"1"
@@ -306,7 +306,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"6"
 				"weight"	"500"
 				"antialias"	"1"
@@ -318,7 +318,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"weight"	"500"
 				"antialias"	"1"
@@ -330,7 +330,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"500"
 				"antialias"	"1"
@@ -342,7 +342,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"500"
 				"antialias"	"1"
@@ -354,7 +354,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"500"
 				"antialias"	"1"
@@ -366,7 +366,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"16"
 				"weight"	"500"
 				"antialias"	"1"
@@ -378,7 +378,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"500"
 				"antialias"	"1"
@@ -390,7 +390,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"weight"	"500"
 				"antialias"	"1"
@@ -402,7 +402,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"22"
 				"weight"	"500"
 				"antialias"	"1"
@@ -414,7 +414,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"weight"	"500"
 				"antialias"	"1"
@@ -426,7 +426,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"26"
 				"weight"	"500"
 				"antialias"	"1"
@@ -438,7 +438,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"28"
 				"weight"	"500"
 				"antialias"	"1"
@@ -450,7 +450,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"30"
 				"weight"	"500"
 				"antialias"	"1"
@@ -462,7 +462,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"32"
 				"weight"	"500"
 				"antialias"	"1"
@@ -474,7 +474,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"36"
 				"weight"	"500"
 				"antialias"	"1"
@@ -486,7 +486,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"40"
 				"weight"	"500"
 				"antialias"	"1"
@@ -498,7 +498,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"48"
 				"weight"	"500"
 				"antialias"	"1"
@@ -510,7 +510,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"50"
 				"weight"	"500"
 				"antialias"	"1"
@@ -522,7 +522,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"60"
 				"weight"	"500"
 				"antialias"	"1"
@@ -534,7 +534,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"6"
 				"weight"	"500"
 				"antialias"	"1"
@@ -546,7 +546,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"weight"	"500"
 				"antialias"	"1"
@@ -558,7 +558,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"500"
 				"antialias"	"1"
@@ -570,7 +570,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"500"
 				"antialias"	"1"
@@ -582,7 +582,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"500"
 				"antialias"	"1"
@@ -594,7 +594,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"16"
 				"weight"	"500"
 				"antialias"	"1"
@@ -606,7 +606,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"500"
 				"antialias"	"1"
@@ -618,7 +618,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"weight"	"500"
 				"antialias"	"1"
@@ -630,7 +630,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"22"
 				"weight"	"500"
 				"antialias"	"1"
@@ -642,7 +642,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"weight"	"500"
 				"antialias"	"1"
@@ -654,7 +654,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"26"
 				"weight"	"500"
 				"antialias"	"1"
@@ -666,7 +666,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"28"
 				"weight"	"500"
 				"antialias"	"1"
@@ -678,7 +678,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"30"
 				"weight"	"500"
 				"antialias"	"1"
@@ -690,7 +690,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"32"
 				"weight"	"500"
 				"antialias"	"1"
@@ -702,7 +702,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"36"
 				"weight"	"500"
 				"antialias"	"1"
@@ -714,7 +714,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"40"
 				"weight"	"500"
 				"antialias"	"1"
@@ -726,7 +726,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"48"
 				"weight"	"500"
 				"antialias"	"1"
@@ -738,7 +738,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"50"
 				"weight"	"500"
 				"antialias"	"1"
@@ -750,7 +750,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"60"
 				"weight"	"500"
 				"antialias"	"1"
@@ -762,7 +762,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"900"
 				"range"	"0x0000 0x017F"
@@ -770,7 +770,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"13" [$WIN32]
 				"tall"	"20" [$_disabled_]
 				"weight"	"900"
@@ -779,7 +779,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"900"
 				"range"	"0x0000 0x017F"
@@ -788,7 +788,7 @@
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"weight"	"900"
 				"range"	"0x0000 0x017F"
@@ -797,7 +797,7 @@
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"weight"	"900"
 				"range"	"0x0000 0x017F"
@@ -806,14 +806,14 @@
 			}
 			"6"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"range"	"0x0000 0x00FF"
 				"weight"	"900"
 			}
 			"7"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"range"	"0x0000 0x00FF"
 				"weight"	"800"
@@ -823,7 +823,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"500"
 				"underline"	"1"
@@ -831,7 +831,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11"
 				"range"	"0x0000 0x00FF"
 				"weight"	"800"
@@ -841,7 +841,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -849,7 +849,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"13"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -857,7 +857,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -866,7 +866,7 @@
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -875,7 +875,7 @@
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"22"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -884,7 +884,7 @@
 			}
 			"6"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"range"	"0x0000 0x00FF"
 				"weight"	"0"
@@ -894,7 +894,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -902,7 +902,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -910,7 +910,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -919,7 +919,7 @@
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -928,7 +928,7 @@
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"16"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -940,7 +940,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"900"
 				"range"	"0x0000 0x017F"
@@ -948,7 +948,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"21"
 				"weight"	"900"
 				"range"	"0x0000 0x017F"
@@ -956,7 +956,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"22"
 				"weight"	"900"
 				"range"	"0x0000 0x017F"
@@ -965,7 +965,7 @@
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"28"
 				"weight"	"900"
 				"range"	"0x0000 0x017F"
@@ -974,7 +974,7 @@
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"30"
 				"weight"	"900"
 				"range"	"0x0000 0x017F"
@@ -983,14 +983,14 @@
 			}
 			"6"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"range"	"0x0000 0x00FF"
 				"weight"	"900"
 			}
 			"7"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"range"	"0x0000 0x00FF"
 				"weight"	"800"
@@ -1000,8 +1000,8 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca" [!$_disabled_]
-				"name"	"Lexend Deca" [$_disabled_]
+				"name"	"Lexend Deca Larger" [!$_disabled_]
+				"name"	"Lexend Deca Larger" [$_disabled_]
 				"tall"	"18"
 				"weight"	"900"
 				"antialias"	"1"
@@ -1012,7 +1012,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"6"
 				"weight"	"500"
 				"additive"	"0"
@@ -1023,14 +1023,14 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"700"
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"13" [$WIN32]
 				"tall"	"23" [$_disabled_]
 				"weight"	"700"
@@ -1038,21 +1038,21 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"700"
 				"yres"	"768 1023"
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"weight"	"700"
 				"yres"	"1200 10000"
@@ -1062,7 +1062,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"tall$_disabled_"	"80"
 				"weight"	"500"
@@ -1072,7 +1072,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"32"
 				"tall$_disabled_"	"120"
 				"weight"	"500"
@@ -1082,7 +1082,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -1091,7 +1091,7 @@
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -1100,7 +1100,7 @@
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -1112,7 +1112,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"44"
 				"tall$_disabled_"	"52"
 				"weight"	"500"
@@ -1124,7 +1124,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"35"
 				"tall$_disabled_"	"40"
 				"weight"	"500"
@@ -1136,7 +1136,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"36"
 				"tall$_disabled_"	"48"
 				"weight"	"500"
@@ -1148,7 +1148,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -1159,7 +1159,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -1170,7 +1170,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"tall$_disabled_"	"28"
 				"weight"	"500"
@@ -1182,7 +1182,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -1193,7 +1193,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -1204,7 +1204,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -1215,7 +1215,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"tall$_disabled_"	"24"
 				"tall$_disabled_"	"18"
@@ -1228,7 +1228,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"tall$_disabled_"	"24"
 				"tall$_disabled_"	"20"
@@ -1241,7 +1241,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"tall$_disabled_"	"16"
 				"weight"	"500"
@@ -1253,7 +1253,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1264,7 +1264,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1275,7 +1275,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1287,7 +1287,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1298,7 +1298,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1310,7 +1310,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1321,7 +1321,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"4"
 				"weight"	"500"
 				"additive"	"0"
@@ -1332,7 +1332,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -1343,7 +1343,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1354,7 +1354,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1365,7 +1365,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1376,7 +1376,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"6"
 				"weight"	"0"
 				"additive"	"0"
@@ -1387,7 +1387,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"tall$_disabled_"	"14"
 				"tall$_disabled_"	"16"
@@ -1400,7 +1400,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1475,7 +1475,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"tall$_disabled_"	"24"
 				"tall$_disabled_"	"18"
@@ -1488,7 +1488,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"16"
 				"tall$_disabled_"	"22"
 				"tall$_disabled_"	"22"
@@ -1501,7 +1501,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -1512,7 +1512,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -1523,7 +1523,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"tall$_disabled_"	"9"
 				"tall$_disabled_"	"10"
@@ -1536,7 +1536,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"tall$_disabled_"	"7"
 				"weight"	"500"
@@ -1548,7 +1548,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"15"
 				"weight"	"700"
 				"antialias"	"1"
@@ -1558,7 +1558,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"15" [$WIN32]
 				"tall"	"21" [$_disabled_]
 				"weight"	"700"
@@ -1569,7 +1569,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"900"
 				"antialias"	"1"
@@ -1578,7 +1578,7 @@
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"21"
 				"weight"	"900"
 				"antialias"	"1"
@@ -1587,7 +1587,7 @@
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"weight"	"1000"
 				"antialias"	"1"
@@ -1599,7 +1599,7 @@
 		{
 			1
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"400"
 				"outline"	"1"
@@ -1607,7 +1607,7 @@
 			}
 			1
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"200"
 				"outline"	"1"
@@ -1639,7 +1639,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"90"
 				"weight"	"900"
 				"range"	"0x0000 0x007F"
@@ -1647,7 +1647,7 @@
 				"additive"	"0"
 			}
 		}
-		"Roboto Bold"
+		"Lexend Deca Bold"
 		{
 			"1"
 			{
@@ -1659,7 +1659,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"28"
 				"weight"	"0"
 				"additive"	"1"
@@ -1670,7 +1670,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"tall$_disabled_"	"32"
 				"weight"	"500"
@@ -1681,7 +1681,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"tall$_disabled_"	"32"
 				"weight"	"500"
@@ -1693,7 +1693,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"tall$_disabled_"	"32"
 				"weight"	"900"
@@ -1704,7 +1704,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"tall$_disabled_"	"32"
 				"weight"	"900"
@@ -1716,7 +1716,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"16"
 				"tall$_disabled_"	"24"
 				"weight"	"900"
@@ -1749,7 +1749,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"antialias"	"1"
 				"weight"	"500"
@@ -1759,7 +1759,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11"
 				"tall$_disabled_"	"14"
 				"antialias"	"1"
@@ -1770,7 +1770,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"antialias"	"1"
 				"weight"	"500"
@@ -1780,7 +1780,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"13"
 				"tall$_disabled_"	"14"
 				"tall$_disabled_"	"17"
@@ -1793,7 +1793,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"28"
 				"tall$_disabled_"	"48"
 				"tall$_disabled_"	"48"
@@ -1808,7 +1808,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"40"
 				"tall$_disabled_"	"48"
 				"tall$_disabled_"	"48"
@@ -1823,7 +1823,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"tall$_disabled_"	"36"
 				"tall$_disabled_"	"36"
@@ -1836,7 +1836,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14" [!$_disabled_]
 				"tall"	"15" [$_disabled_]
 				"tall$_disabled_"	"32"
@@ -1850,7 +1850,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"6"
 				"weight"	"400"
 				"additive"	"0"
@@ -1861,7 +1861,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"tall$_disabled_"	"10"
 				"tall$_disabled_"	"14"
@@ -1874,7 +1874,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"tall$_disabled_"	"12"
 				"tall$_disabled_"	"14"
@@ -1887,7 +1887,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"500"
 				"range"	"0x0000 0x007F"
@@ -1899,7 +1899,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"weight"	"500"
 				"range"	"0x0000 0x007F"
@@ -1911,7 +1911,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"tall$_disabled_"	"24"
 				"tall$_disabled_"	"24"
@@ -1925,7 +1925,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"500"
 				"range"	"0x0000 0x007F"
@@ -1937,7 +1937,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"weight"	"500"
 				"range"	"0x0000 0x007F"
@@ -1949,7 +1949,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"34"
 				"tall$_disabled_"	"38"
 				"tall$_disabled_"	"38"
@@ -1963,7 +1963,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"36"
 				"tall$_disabled_"	"48"
 				"weight"	"500"
@@ -1975,7 +1975,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"52"
 				"tall$_disabled_"	"80"
 				"range"	"0x0000 0x00FF"
@@ -1985,7 +1985,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"72"
 				"tall$_disabled_"	"120"
 				"range"	"0x0000 0x00FF"
@@ -1995,7 +1995,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"100"
 				"range"	"0x0000 0x00FF"
 				"weight"	"400"
@@ -2004,7 +2004,7 @@
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"140"
 				"range"	"0x0000 0x00FF"
 				"weight"	"400"
@@ -2013,7 +2013,7 @@
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"180"
 				"range"	"0x0000 0x00FF"
 				"weight"	"400"
@@ -2025,7 +2025,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"36"
 				"weight"	"500"
 				"range"	"0x0000 0x007F"
@@ -2037,7 +2037,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2048,7 +2048,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"weight"	"400"
 				"additive"	"0"
@@ -2059,7 +2059,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2070,7 +2070,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -2081,7 +2081,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -2092,7 +2092,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"tall$_disabled_"	"12"
 				"tall$_disabled_"	"14"
@@ -2105,7 +2105,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"700"
 				"yres"	"480 599"
@@ -2113,7 +2113,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"13"
 				"weight"	"700"
 				"yres"	"600 767"
@@ -2121,7 +2121,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"700"
 				"yres"	"768 1023"
@@ -2129,7 +2129,7 @@
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
@@ -2137,7 +2137,7 @@
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"weight"	"700"
 				"yres"	"1200 10000"
@@ -2148,7 +2148,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"700"
 				"yres"	"480 599"
@@ -2156,7 +2156,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"13"
 				"weight"	"700"
 				"yres"	"600 767"
@@ -2164,7 +2164,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"700"
 				"yres"	"768 1023"
@@ -2172,7 +2172,7 @@
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
@@ -2180,7 +2180,7 @@
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"weight"	"700"
 				"yres"	"1200 10000"
@@ -2191,7 +2191,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"700"
 				"yres"	"480 599"
@@ -2199,7 +2199,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"700"
 				"yres"	"600 767"
@@ -2207,7 +2207,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"13"
 				"weight"	"700"
 				"yres"	"768 1023"
@@ -2215,7 +2215,7 @@
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"700"
 				"yres"	"1024 1199"
@@ -2223,7 +2223,7 @@
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"15"
 				"weight"	"700"
 				"yres"	"1200 10000"
@@ -2234,7 +2234,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"tall$_disabled_"	"12"
 				"range"	"0x0000 0x00FF"
@@ -2246,7 +2246,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"tall$_disabled_"	"18"
 				"range"	"0x0000 0x00FF"
@@ -2259,7 +2259,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"500"
 				"range"	"0x0000 0x017F"
@@ -2271,7 +2271,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"weight"	"500"
 				"range"	"0x0000 0x017F"
@@ -2283,7 +2283,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"tall$_disabled_"	"10"
 				"tall$_disabled_"	"12"
@@ -2296,7 +2296,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"9"
 				"tall$_disabled_"	"10"
 				"tall$_disabled_"	"16"
@@ -2309,7 +2309,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11" [!$_disabled_]
 				"tall"	"9" [$_disabled_]
 				"weight"	"800"
@@ -2321,7 +2321,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"36"
 				"tall$_disabled_"	"28"
 				"weight"	"500"
@@ -2331,7 +2331,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"30"
 				"tall$_disabled_"	"22"
 				"weight"	"500"
@@ -2341,7 +2341,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"28"
 				"tall$_disabled_"	"24"
 				"weight"	"500"
@@ -2351,7 +2351,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"22"
 				"weight"	"900"
 			}
@@ -2360,7 +2360,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"900"
 			}
@@ -2369,7 +2369,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"22"
 				"weight"	"500"
 			}
@@ -2378,7 +2378,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"500"
 			}
@@ -2387,7 +2387,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"22"
 				"tall$_disabled_"	"18"
 				"weight"	"900"
@@ -2397,7 +2397,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"tall$_disabled_"	"18"
 				"weight"	"900"
@@ -2407,7 +2407,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"15"
 				"weight"	"900"
 			}
@@ -2416,7 +2416,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"36"
 				"weight"	"500"
 				"additive"	"0"
@@ -2427,7 +2427,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -2438,7 +2438,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -2449,7 +2449,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"900"
 				"antialias"	"1"
@@ -2459,7 +2459,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"600"
 				"additive"	"0"
@@ -2470,7 +2470,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -2481,7 +2481,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -2492,7 +2492,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -2501,7 +2501,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -2510,7 +2510,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"15"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -2522,7 +2522,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2533,7 +2533,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2544,7 +2544,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2555,7 +2555,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -2566,7 +2566,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -2577,7 +2577,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"antialias"	"1"
 				"weight"	"500"
@@ -2587,7 +2587,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2598,7 +2598,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2609,7 +2609,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2620,7 +2620,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2631,7 +2631,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"9"
 				"weight"	"500"
 				"blur"	"3"
@@ -2643,7 +2643,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -2654,7 +2654,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -2665,7 +2665,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"7"
 				"weight"	"0"
 				"antialias"	"1"
@@ -2675,7 +2675,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"7"
 				"weight"	"0"
 				"blur"	"3"
@@ -2687,7 +2687,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"7"
 				"weight"	"0"
 				"antialias"	"1"
@@ -2697,8 +2697,8 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca" [$WINDOWS]
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger" [$WINDOWS]
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"400"
 				"yres"	"480 599"
@@ -2707,8 +2707,8 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca" [$WINDOWS]
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger" [$WINDOWS]
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2717,8 +2717,8 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca" [$WINDOWS]
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger" [$WINDOWS]
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -2730,8 +2730,8 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca" [$WINDOWS]
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger" [$WINDOWS]
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"800"
 				"yres"	"480 599"
@@ -2740,8 +2740,8 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca" [$WINDOWS]
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger" [$WINDOWS]
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -2750,8 +2750,8 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca" [$WINDOWS]
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger" [$WINDOWS]
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -2763,8 +2763,8 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca" [$WINDOWS]
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger" [$WINDOWS]
+				"name"	"Lexend Deca Larger"
 				"tall"	"16"
 				"weight"	"400"
 				"additive"	"0"
@@ -2775,7 +2775,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"antialias"	"1"
 				"custom"	"1" [$_disabled_]
@@ -2786,7 +2786,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"400"
 				"yres"	"480 599"
@@ -2795,7 +2795,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2804,7 +2804,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -2816,7 +2816,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"400"
 				"yres"	"480 599"
@@ -2826,7 +2826,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2836,7 +2836,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -2849,7 +2849,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"800"
 				"yres"	"480 599"
@@ -2858,7 +2858,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -2867,7 +2867,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -2879,7 +2879,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"13"
 				"weight"	"400"
 				"additive"	"0"
@@ -2890,7 +2890,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"16"
 				"weight"	"400"
 				"additive"	"0"
@@ -2901,7 +2901,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -2912,7 +2912,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"weight"	"400"
 				"additive"	"0"
@@ -2923,7 +2923,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"weight"	"0"
 				"antialias"	"1"
@@ -2933,7 +2933,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"8"
 				"weight"	"400"
 				"antialias"	"1"
@@ -2944,7 +2944,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"9"
 				"weight"	"400"
 				"antialias"	"1"
@@ -2956,7 +2956,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -2964,7 +2964,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -2972,7 +2972,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -2981,7 +2981,7 @@
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -2990,7 +2990,7 @@
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"16"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -3002,7 +3002,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3013,7 +3013,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -3021,7 +3021,7 @@
 			}
 			"2"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"13"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -3029,7 +3029,7 @@
 			}
 			"3"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -3038,7 +3038,7 @@
 			}
 			"4"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"20"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -3047,7 +3047,7 @@
 			}
 			"5"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"22"
 				"weight"	"0"
 				"range"	"0x0000 0x017F"
@@ -3056,7 +3056,7 @@
 			}
 			"6"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"range"	"0x0000 0x00FF"
 				"weight"	"0"
@@ -3066,7 +3066,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3077,7 +3077,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3088,7 +3088,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"tall$_disabled_"	"24"
 				"tall$_disabled_"	"18"
@@ -3101,7 +3101,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3112,7 +3112,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"18"
 				"tall$_disabled_"	"24"
 				"tall$_disabled_"	"20"
@@ -3125,7 +3125,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3136,7 +3136,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3147,7 +3147,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"15"
 				"weight"	"500"
 				"range"	"0x0000 0x007F"
@@ -3159,7 +3159,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"9"
 				"weight"	"400"
 				"additive"	"0"
@@ -3170,7 +3170,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11"
 				"weight"	"500"
 				"antialias"	"1"
@@ -3180,7 +3180,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"11"
 				"weight"	"500"
 				"blur"	"3"
@@ -3192,7 +3192,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -3204,8 +3204,8 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca" [$WINDOWS]
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger" [$WINDOWS]
+				"name"	"Lexend Deca Larger"
 				"tall"	"7"
 				"weight"	"0"
 				"blur"	"3"
@@ -3217,8 +3217,8 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca" [$WINDOWS]
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger" [$WINDOWS]
+				"name"	"Lexend Deca Larger"
 				"tall"	"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -3229,8 +3229,8 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca" [$WINDOWS]
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger" [$WINDOWS]
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -3241,8 +3241,8 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca" [$WINDOWS]
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger" [$WINDOWS]
+				"name"	"Lexend Deca Larger"
 				"tall"	"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -3253,8 +3253,8 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca" [$WINDOWS]
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger" [$WINDOWS]
+				"name"	"Lexend Deca Larger"
 				"tall"	"30"
 				"weight"	"400"
 				"additive"	"0"
@@ -3265,7 +3265,7 @@
 		{
 			"1"
 			{
-				"name"	"Lexend Deca"
+				"name"	"Lexend Deca Larger"
 				"tall"	"10"
 				"weight"	"500"
 				"antialias"	"1"

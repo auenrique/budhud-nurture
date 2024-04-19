@@ -206,16 +206,22 @@ Scheme
             "name"          "Crosshairs Regular"
         }
 
-        "14" // Lexend Deca
+        "14" // Lexend Deca Larger
 		{
-			"font"			"resource/fonts/Lexend Deca.ttf"
-			"name"			"Lexend Deca"
+			"font"			"resource/fonts/Lexend Deca Larger.ttf"
+			"name"			"Lexend Deca Larger"
 		}
 
-        "15" // Roboto Bold
+        "15" // Lexend Deca Bold
 		{
-			"font"			"resource/fonts/Roboto Bold.ttf"
-			"name"			"Roboto Bold"
+			"font"			"resource/fonts/Lexend Deca Bold.ttf"
+			"name"			"Lexend Deca Bold"
+		}
+		
+		"16" // Lexend Deca Light
+		{
+			"font"			"resource/fonts/Lexend Deca Light.ttf"
+			"name"			"Lexend Deca Light"
 		}
     }
 }

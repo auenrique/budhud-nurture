@@ -3,8 +3,9 @@ Modified version of budhud, made by nurture/ideknoo
 
 ## Changes
 ### Fonts
-* Roboto Bold - Health, Ammo, Ubercharge
-* Lexend Deca - Most text, chat
+* Lexend Deca Bold - Health, Ammo, Ubercharge
+* Lexend Deca - Menu Interface
+* Lexend Deca Light - Chat
 
 ### Main Menu & General Interface
 * New menu background (<a href="https://www.pixiv.net/en/artworks/100110793">Source</a>)

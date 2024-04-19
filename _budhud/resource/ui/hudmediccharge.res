@@ -137,6 +137,24 @@
         "fgcolor"                                                   "bh_white"
     }
 
+    "ChargeLabelShadow"
+    {
+        "pin_to_sibling"                                            "ChargeLabel"
+        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
+        "pin_to_sibling_corner"                                     "0"
+
+        "ControlName"                                               "CExLabel"
+        "fieldName"                                                 "ChargeLabelShadow"
+        "labelText"                                                 "#TF_UberchargeMinHUD"
+        "xpos"                                                      "-1"
+        "ypos"                                                      "-1"
+        "wide"                                                      "250"
+        "tall"                                                      "150"
+        "font"                                                      "bh_Medic"
+        "fgcolor"                                                   "bh_Ammo_Main_Shadow"
+        "textAlignment"                                             "center"
+    }
+
     "ResistIcon"
     {
         "pin_to_sibling"                                            "bh_ResistPin"
