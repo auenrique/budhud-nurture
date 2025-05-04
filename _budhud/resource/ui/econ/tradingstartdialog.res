@@ -1,7 +1,5 @@
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     // Loadout > Trading
-    // This element is nice to work on because it does not require a game restart or reload, you just
-    // need to close and re-open the window.
     ////////////////////////////////////////////////////////////////////////////////////////////////////
 
     #base   "bh_confirmbase.res"
@@ -12,6 +10,16 @@
     {
         "bgcolor_override"                                          "bh_Theme_BG30"
         "border"                                                    "bh_b_NESW"
+    }
+
+    "TitleLabel"
+    {
+        "wide"                                                      "400"
+    }
+
+    "CancelButton"
+    {
+        "xpos"                                                      "137"
     }
 
     "StatePanel0"

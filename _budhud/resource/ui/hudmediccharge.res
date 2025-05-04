@@ -14,6 +14,25 @@
         "enabled"                                                   "0"
     }
 
+    "bh_UberBG"
+    {
+        "ControlName"                                               "CExLabel"
+        "fieldName"                                                 "bh_UberBG"
+        "xpos"                                                      "c125"
+        "ypos"                                                      "c95"
+        "zpos"                                                      "-6969"
+        "wide"                                                      "100"
+        "tall"                                                      "42"
+        "autoResize"                                                "0"
+        "pinCorner"                                                 "0"
+        "labeltext"                                                 ""
+        "visible"                                                   "1"
+        "enabled"                                                   "1"
+        "alpha"                                                     "0"
+        "bgcolor_override"                                          "bh_HealthBox_Base"
+        "paintbackgroundtype"                                       "2"
+    }
+
     "bh_ResistPin"
     {
         "ControlName"                                               "Label"
@@ -48,68 +67,60 @@
         "ypos"                                                      "c114"
         "wide"                                                      "100"
         "tall"                                                      "6"
-        "fgcolor_override"                                          "bh_chargemeter"
-        "bgcolor_override"                                          "bh_chargemeterBG"
+        "fgcolor_override"                                          "bh_UberMeter_Base"
+        "bgcolor_override"                                          "bh_UberMeter_Background"
     }
 
     "ChargeMeter1"
     {
         "pin_to_sibling"                                            "bh_ChargePin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "0"
         "ypos"                                                      "-13"
         "zpos"                                                      "2"
         "wide"                                                      "48"
         "tall"                                                      "6"
-        "fgcolor_override"                                          "bh_chargemeter"
-        "bgcolor_override"                                          "bh_chargemeterBG"
+        "fgcolor_override"                                          "bh_UberMeter_Base"
+        "bgcolor_override"                                          "bh_UberMeter_Background"
     }
 
     "ChargeMeter2"
     {
         "pin_to_sibling"                                            "bh_ChargePin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "-52"
         "ypos"                                                      "-13"
         "zpos"                                                      "2"
         "wide"                                                      "48"
         "tall"                                                      "6"
-        "fgcolor_override"                                          "bh_chargemeter"
-        "bgcolor_override"                                          "bh_chargemeterBG"
+        "fgcolor_override"                                          "bh_UberMeter_Base"
+        "bgcolor_override"                                          "bh_UberMeter_Background"
     }
 
     "ChargeMeter3"
     {
         "pin_to_sibling"                                            "bh_ChargePin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "0"
         "ypos"                                                      "-22"
         "zpos"                                                      "2"
         "wide"                                                      "48"
         "tall"                                                      "6"
-        "fgcolor_override"                                          "bh_chargemeter"
-        "bgcolor_override"                                          "bh_chargemeterBG"
+        "fgcolor_override"                                          "bh_UberMeter_Base"
+        "bgcolor_override"                                          "bh_UberMeter_Background"
     }
 
     "ChargeMeter4"
     {
         "pin_to_sibling"                                            "bh_ChargePin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "-52"
         "ypos"                                                      "-22"
         "zpos"                                                      "2"
         "wide"                                                      "48"
         "tall"                                                      "6"
-        "fgcolor_override"                                          "bh_chargemeter"
-        "bgcolor_override"                                          "bh_chargemeterBG"
+        "fgcolor_override"                                          "bh_UberMeter_Base"
+        "bgcolor_override"                                          "bh_UberMeter_Background"
     }
 
     "IndividualChargesLabel"
@@ -140,8 +151,6 @@
     "ResistIcon"
     {
         "pin_to_sibling"                                            "bh_ResistPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
         "zpos"                                                      "6969"
         "wide"                                                      "32"
         "tall"                                                      "32"

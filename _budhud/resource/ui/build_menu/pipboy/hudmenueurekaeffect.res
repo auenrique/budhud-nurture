@@ -4,12 +4,11 @@
 {
     "ItemBackground"
     {
-        "pin_to_sibling"                                            "bh_MenuPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
+        "pin_to_sibling"                                            "bh_EngineerEurekaBuildPin"
 
         "ypos"                                                      "0"
         "wide"                                                      "200"
+        "tall"                                                      "120"
     }
 
     "bh_TeamIndicator"

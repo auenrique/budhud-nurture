@@ -247,13 +247,11 @@
     "MapLabel"
     {
         "pin_to_sibling"                                            "bh_TextPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "0"
         "ypos"                                                      "0"
         "font"                                                      "bh_Font32"
-        "fgcolor_override"                                          "bh_mapname"
+        "fgcolor_override"                                          "bh_Theme_TextSecondary"
         "wide"                                                      "500"
         "tall"                                                      "80"
         "textalignment"                                             "west"
@@ -262,13 +260,11 @@
     "MapType"
     {
         "pin_to_sibling"                                            "bh_TextPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "0"
         "ypos"                                                      "-30"
         "font"                                                      "bh_Font24"
-        "fgcolor_override"                                          "bh_maptype"
+        "fgcolor_override"                                          "bh_Theme_TextSecondary"
         "wide"                                                      "500"
         "tall"                                                      "80"
         "textalignment"                                             "west"

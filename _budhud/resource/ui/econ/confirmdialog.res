@@ -1,131 +1,106 @@
-    ///////////////////////////////////////////////////////////////////////////////////////////////
-    // This file does not exist in tf2hud files because it cannot be extracted from TF2's base hud
-    // Therefore, you should not remove any lines that remain unchanged from the default hud
-    // as you traditionally would with budhud.
-    // Because of this, we also cannot use a #base here for bh_confirmbase because these values
-    // supercede those values.
-    ///////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////
+// This file is utilized by a handful of differently-tall-sized elements, which means we can't
+// use our own custom background unless they have their own separate file (such as the disconnect
+// resource files.
+// This whole file can eat my ass
+// confirm dialogs: quit game, mann co use item, coach player
+////////////////////////////////////////////////////////////////////////////////////////////////////
 
 "Resource/UI/ConfirmDialog.res"
 {
     "ConfirmDialog"
     {
-        "ControlName"                                               "Frame"
-        "fieldName"                                                 "ConfirmDialog"
-        "xpos"                                                      "c-162"
-        "ypos"                                                      "c-70"     // Delete item confirmation UI is affected by this value
+        "xpos"                                                      "c-150"	// I think literally only the delete item confirmation is controlled by this??
+        "ypos"                                                      "c-70"	// Delete item confirmation UI is affected by this value
+        "wide"                                                      "300"
+        "tall"                                                      "200"	// Whole panel tall is dictated by tall value of ExplanationLabel
+        "paintborder"                                               "0"
+        "bgcolor_override"                                          "bh_blank"
+    }
+
+    "bh_ConfirmDialog_BG"
+    {
+        "ControlName"                                               "ImagePanel"
+        "fieldName"                                                 "bh_ConfirmDialog_BG"
+        "xpos"                                                      "cs-0.5"
+        "ypos"                                                      "cs-0.5"
         "zpos"                                                      "0"
-        "wide"                                                      "324"
-        "tall"                                                      "200"
+        "wide"                                                      "f0"
+        "tall"                                                      "f0"
         "autoResize"                                                "0"
         "pinCorner"                                                 "0"
+        "labeltext"                                                 ""
         "visible"                                                   "1"
         "enabled"                                                   "1"
-        "tabPosition"                                               "0"
-        "settitlebarvisible"                                        "0"
-        "PaintBackgroundType"                                       "0"
-        "paintbackground"                                           "1"
-        "paintborder"                                               "1"
-        "border"                                                    "bh_b_NESW"
-        "bgcolor_override"                                          "bh_Theme_BG30"
+        "fillcolor"                                                 "bh_Theme_BG20"
+        "image"                                                     ""
+        "paintbackgroundtype"                                       "0"
+        "border"                                                    "bh_b_NEW"
+        "proportionaltoparent"                                      "1"
+    }
+
+    "bh_ConfirmDialog_BGBorderBottom"	// everything about this panel disgusts me
+    {
+        "pin_to_sibling"                                            "ConfirmButton"
+        "ControlName"                                               "ImagePanel"
+        "fieldName"                                                 "bh_ConfirmDialog_BGBorderBottom"
+        "xpos"                                                      "5000"
+        "ypos"                                                      "-38-1-1"
+        "zpos"                                                      "3"
+        "wide"                                                      "f-5000"
+        "tall"                                                      "2"
+        "visible"                                                   "1"
+        "enabled"                                                   "1"
+        "fillcolor"                                                 "bh_border"
+        "proportionaltoparent"                                      "1"
     }
 
     "TitleLabel"
     {
-        "ControlName"                                               "CExLabel"
-        "fieldName"                                                 "TitleLabel"
-        "font"                                                      "EconFontMedium"
-        "labelText"                                                 "#ConfirmTitle"
-        "textAlignment"                                             "north"
         "xpos"                                                      "0"
-        "ypos"                                                      "15"
-        "zpos"                                                      "1"
-        "wide"                                                      "324"
-        "tall"                                                      "60"
-        "autoResize"                                                "1"
-        "pinCorner"                                                 "0"
-        "visible"                                                   "1"
-        "enabled"                                                   "1"
-        "fgcolor"                                                   "bh_Theme_TextAccent"
+        "ypos"                                                      "10"
+        "wide"                                                      "300"
+        "textalignment"                                             "center"
+        "fgcolor_override"                                          "bh_Theme_TextAccent"
+        "allcaps"                                                   "1"
     }
 
-    "ExplanationLabel"
+    "ExplanationLabel"	// These values are left here to dictate to confirmdialog.res how to adjust the ConfirmDialog panel
+    {
+        "wide"                                                      "280"	// no touchy
+        "tall"                                                      "60"	// dynamic value
+        "fgcolor_override"                                          "bh_blank"
+        "font"                                                      "bh_Font12"	// sizing of font also affects sizing of confirmdialog tall
+    }
+
+    "bh_ExplanationLabel"
     {
         "ControlName"                                               "CExLabel"
-        "fieldName"                                                 "ExplanationLabel"
-        "font"                                                      "EconFontSmall"
+        "fieldName"                                                 "bh_ExplanationLabel"
+        "font"                                                      "bh_Font12"
         "labelText"                                                 "%text%"
-        "textAlignment"                                             "north"
-        "xpos"                                                      "40"
-        "ypos"                                                      "50"
+        "textAlignment"                                             "center"
+        "xpos"                                                      "cs-0.5"
+        "ypos"                                                      "cs-5.4"	// ExplanationLabel has issues with using cs values, a custom one does not
         "zpos"                                                      "1"
-        "wide"                                                      "244"
-        "tall"                                                      "60"
+        "wide"                                                      "200"
+        "tall"                                                      "10"
         "autoResize"                                                "0"
         "pinCorner"                                                 "0"
         "visible"                                                   "1"
         "enabled"                                                   "1"
         "centerwrap"                                                "1"
         "fgcolor_override"                                          "bh_white"
-    }
-
-    "CancelButton"
-    {
-        "ControlName"                                               "CExButton"
-        "fieldName"                                                 "CancelButton"
-        "xpos"                                                      "190"
-        "ypos"                                                      "165"
-        "zpos"                                                      "20"
-        "wide"                                                      "124"
-        "tall"                                                      "25"
-        "autoResize"                                                "0"
-        "pinCorner"                                                 "0"
-        "visible"                                                   "1"
-        "enabled"                                                   "1"
-        "tabPosition"                                               "0"
-        "labelText"                                                 "#GameUI_CancelBold"
-        "font"                                                      "EconFontSmall"
-        "textAlignment"                                             "center"
-        "textinsetx"                                                "50"
-        "dulltext"                                                  "0"
-        "brighttext"                                                "0"
-        "Command"                                                   "cancel"
-        "sound_depressed"                                           "UI/buttonclick.wav"
-        "sound_released"                                            "UI/buttonclickrelease.wav"
-        "defaultBgColor_override"                                   "bh_Theme_BG20"
-        "armedBgColor_override"                                     "bh_Theme_BG30"
-        "depressedBgColor_override"                                 "bh_Theme_BG30"
-        "defaultFgColor_override"                                   "bh_Theme_TextSecondary"
-        "armedFgColor_override"                                     "bh_Theme_TextAccent"
-        "depressedFgColor_override"                                 "bh_ButtonDepressed"
-        "border_default"                                            "bh_b_NESW"
-        "border_armed"                                              "bh_b_NESW"
+        "proportionaltoparent"                                      "1"
+        "auto_tall_tocontents"                                      "1"
     }
 
     "ConfirmButton"
     {
-        "ControlName"                                               "CExButton"
-        "fieldName"                                                 "ConfirmButton"
-        "xpos"                                                      "10"
-        "ypos"                                                      "165"
-        "zpos"                                                      "20"
-        "wide"                                                      "175"
-        "tall"                                                      "25"
-        "default"                                                   "1"
-        "autoResize"                                                "0"
-        "pinCorner"                                                 "0"
-        "visible"                                                   "1"
-        "enabled"                                                   "1"
-        "tabPosition"                                               "0"
-        "labelText"                                                 "#ConfirmButtonText"
-        "font"                                                      "EconFontSmall"
-        "textAlignment"                                             "center"
-        "textinsetx"                                                "50"
-        "dulltext"                                                  "0"
-        "brighttext"                                                "0"
-        "Command"                                                   "confirm"
-        "sound_depressed"                                           "UI/buttonclick.wav"
-        "sound_released"                                            "UI/buttonclickrelease.wav"
+        "xpos"                                                      "s0.1"
+        "proportionaltoparent"                                      "1"
+        "wide"                                                      "126"
+        "tall"                                                      "26"
         "defaultBgColor_override"                                   "bh_Theme_BG20"
         "armedBgColor_override"                                     "bh_Theme_BG30"
         "depressedBgColor_override"                                 "bh_Theme_BG30"
@@ -134,5 +109,30 @@
         "depressedFgColor_override"                                 "bh_ButtonDepressed"
         "border_default"                                            "bh_b_NESW"
         "border_armed"                                              "bh_b_NESW"
+        "allcaps"                                                   "1"
+    }
+
+    "CancelButton"
+    {
+        "xpos"                                                      "rs1.1"
+        "proportionaltoparent"                                      "1"
+        "wide"                                                      "126"
+        "tall"                                                      "26"
+        "defaultBgColor_override"                                   "bh_Theme_BG20"
+        "armedBgColor_override"                                     "bh_Theme_BG30"
+        "depressedBgColor_override"                                 "bh_Theme_BG30"
+        "defaultFgColor_override"                                   "bh_Theme_TextSecondary"
+        "armedFgColor_override"                                     "bh_Theme_TextAccent"
+        "depressedFgColor_override"                                 "bh_ButtonDepressed"
+        "border_default"                                            "bh_b_NESW"
+        "border_armed"                                              "bh_b_NESW"
+        "allcaps"                                                   "1"
+    }
+
+    "AbandonIcon"
+    {
+        "ypos"                                                      "r-6969"
+        "visible"                                                   "0"
+        "enabled"                                                   "0"
     }
 }
