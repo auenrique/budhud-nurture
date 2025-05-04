@@ -33,37 +33,58 @@
     {
         "ControlName"                                               "Label"
         "fieldName"                                                 "bh_PlayerStatusPin"
-        "xpos"                                                      "193"
+        "xpos"                                                      "s.78"
         "ypos"                                                      "23"
         "zpos"                                                      "0"
-        "wide"                                                      "10"
+        "wide"                                                      "f0"
         "tall"                                                      "0"
         "visible"                                                   "1"
         "enabled"                                                   "1"
         "bgcolor_override"                                          "0 0 0 0"
+        "proportionaltoparent"                                      "1"
+    }
+
+    "bh_HealthBGPin"
+    {
+        "ControlName"                                               "Label"
+        "fieldName"                                                 "bh_HealthBGPin"
+        "xpos"                                                      "cs-0.5"
+        "ypos"                                                      "cs-0.5"
+        "zpos"                                                      "0"
+        "wide"                                                      "100"
+        "tall"                                                      "42"
+        "visible"                                                   "1"
+        "enabled"                                                   "1"
+        "bgcolor_override"                                          "0 0 0 0"
+        "proportionaltoparent"                                      "1"
+        "labeltext"                                                 ""
     }
 
     "bh_HealthBG"
     {
-        "ControlName"                                               "CExLabel"
+        "pin_to_sibling"                                            "bh_HealthBGPin" // cs value causes misalignment on first load, so make separate pin instead (GH issue #556)
+        "ControlName"                                               "Label"
         "fieldName"                                                 "bh_HealthBG"
-        "xpos"                                                      "85"
-        "ypos"                                                      "55"
-        "zpos"                                                      "-6969"
-        "wide"                                                      "81"
+        "xpos"                                                      "0"
+        "ypos"                                                      "0"
+        "zpos"                                                      "0"
+        "wide"                                                      "100"
         "tall"                                                      "42"
         "autoResize"                                                "0"
         "pinCorner"                                                 "0"
         "labeltext"                                                 ""
-        "visible"                                                   "0"
-        "enabled"                                                   "0"
+        "visible"                                                   "1"
+        "enabled"                                                   "1"
+        "alpha"                                                     "0"
         "bgcolor_override"                                          "bh_HealthBox_Base"
+        "paintbackgroundtype"                                       "2"
+        "proportionaltoparent"                                      "1"
     }
 
     "PlayerStatusHealthValue"
     {
-        "xpos"                                                      "0"
-        "ypos"                                                      "0"
+        "xpos"                                                      "-1"
+        "ypos"                                                      "-1"
         "zpos"                                                      "6"
         "wide"                                                      "250"
         "tall"                                                      "150"
@@ -75,9 +96,6 @@
     "PlayerStatusHealthValueShadow"
     {
         "pin_to_sibling"                                            "PlayerStatusHealthValue"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-
         "ControlName"                                               "CExLabel"
         "fieldName"                                                 "PlayerStatusHealthValueShadow"
         "xpos"                                                      "-1"
@@ -95,100 +113,16 @@
 
     "PlayerStatusHealthBonusImage"
     {
-        "xpos"                                                      "108"
-        "ypos"                                                      "59"
+        "xpos"                                                      "cs-0.5"
+        "ypos"                                                      "cs-0.5"
         "zpos"                                                      "-10"
         "wide"                                                      "34"
         "tall"                                                      "34"
+        "proportionaltoparent"                                      "1"
     }
-
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     // I had to add these due to the new dimensions of the health elements breaking the default positions
     ////////////////////////////////////////////////////////////////////////////////////////////////////
-
-    "PlayerStatusBleedImage"
-    {
-        "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-    }
-
-    "PlayerStatusHookBleedImage"
-    {
-        "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-    }
-
-    "PlayerStatusMilkImage"
-    {
-        "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-    }
-
-    "PlayerStatusGasImage"
-    {
-        "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-    }
-
-    "PlayerStatusMarkedForDeathImage"
-    {
-        "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-    }
-
-    "PlayerStatusMarkedForDeathSilentImage"
-    {
-        "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-    }
-
-    "PlayerStatus_MedicUberBulletResistImage"
-    {
-        "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-    }
-
-    "PlayerStatus_MedicUberBlastResistImage"
-    {
-        "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-    }
-
-    "PlayerStatus_MedicUberFireResistImage"
-    {
-        "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-    }
-
-    "PlayerStatus_MedicSmallBulletResistImage"
-    {
-        "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-    }
-
-    "PlayerStatus_MedicSmallBlastResistImage"
-    {
-        "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-    }
-
-    "PlayerStatus_MedicSmallFireResistImage"
-    {
-        "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-    }
 
     "PlayerStatus_WheelOfDoom"
     {
@@ -196,129 +130,153 @@
         "ypos"                                                      "60"
     }
 
+    "PlayerStatusBleedImage"
+    {
+        "pin_to_sibling"                                            "bh_PlayerStatusPin"
+    }
+
+    "PlayerStatusHookBleedImage"
+    {
+        "pin_to_sibling"                                            "bh_PlayerStatusPin"
+    }
+
+    "PlayerStatusMilkImage"
+    {
+        "pin_to_sibling"                                            "bh_PlayerStatusPin"
+    }
+
+    "PlayerStatusGasImage"
+    {
+        "pin_to_sibling"                                            "bh_PlayerStatusPin"
+    }
+
+    "PlayerStatusMarkedForDeathImage"
+    {
+        "pin_to_sibling"                                            "bh_PlayerStatusPin"
+    }
+
+    "PlayerStatusMarkedForDeathSilentImage"
+    {
+        "pin_to_sibling"                                            "bh_PlayerStatusPin"
+    }
+
+    "PlayerStatus_MedicUberBulletResistImage"
+    {
+        "pin_to_sibling"                                            "bh_PlayerStatusPin"
+    }
+
+    "PlayerStatus_MedicUberBlastResistImage"
+    {
+        "pin_to_sibling"                                            "bh_PlayerStatusPin"
+    }
+
+    "PlayerStatus_MedicUberFireResistImage"
+    {
+        "pin_to_sibling"                                            "bh_PlayerStatusPin"
+    }
+
+    "PlayerStatus_MedicSmallBulletResistImage"
+    {
+        "pin_to_sibling"                                            "bh_PlayerStatusPin"
+    }
+
+    "PlayerStatus_MedicSmallBlastResistImage"
+    {
+        "pin_to_sibling"                                            "bh_PlayerStatusPin"
+    }
+
+    "PlayerStatus_MedicSmallFireResistImage"
+    {
+        "pin_to_sibling"                                            "bh_PlayerStatusPin"
+    }
+
     "PlayerStatus_SoldierOffenseBuff"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_SoldierDefenseBuff"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_SoldierHealOnHitBuff"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_SpyMarked"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_Parachute"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_RuneStrength"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_RuneHaste"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_RuneRegen"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_RuneResist"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_RuneVampire"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_RuneReflect"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_RunePrecision"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_RuneAgility"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_RuneKnockout"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_RuneKing"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_RunePlague"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatus_RuneSupernova"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     "PlayerStatusSlowed"
     {
         "pin_to_sibling"                                            "bh_PlayerStatusPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 }

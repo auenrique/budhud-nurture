@@ -10,6 +10,7 @@
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     // Tall value of the following elements should match SpectatorGUIHealth in targetid.res:
     // bh_TargetNameBG, TargetNameLabel, TargetDataLabel
+    // There's a SpectatorGUIHealth in ReviveDialog you'll have to change as well
     ////////////////////////////////////////////////////////////////////////////////////////////////////
 
     "SpectatorGUIHealth"
@@ -17,7 +18,7 @@
         "xpos"                                                      "0"
         "ypos"                                                      "34"
         "wide"                                                      "40"
-        "tall"                                                      "40"
+        "tall"                                                      "18"
     }
 
     "TargetNameLabel"
@@ -78,8 +79,6 @@
     "AmmoIcon"
     {
         "pin_to_sibling"                                            "bh_AmmoKSPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "0"
         "ypos"                                                      "0"
@@ -90,8 +89,6 @@
     "KillstreakIcon"
     {
         "pin_to_sibling"                                            "bh_AmmoKSPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "0"
         "ypos"                                                      "0"
@@ -102,8 +99,6 @@
     "TargetIDBG"
     {
         "pin_to_sibling"                                            "SpectatorGUIHealth"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "0"
         "ypos"                                                      "0"
@@ -114,16 +109,14 @@
         "draw_corner_width"                                         "0"
         "draw_corner_height"                                        "0"
 
-        "teambg_1"                                                  "replay/thumbnails/team_colors/bh_targetid_gray"
-        "teambg_2"                                                  "replay/thumbnails/team_colors/bh_targetid_red"
-        "teambg_3"                                                  "replay/thumbnails/team_colors/bh_targetid_blue"
+        "teambg_1"                                                  "replay/thumbnails/general_icons/bh_targetid_gray"
+        "teambg_2"                                                  "replay/thumbnails/general_icons/bh_targetid_red"
+        "teambg_3"                                                  "replay/thumbnails/general_icons/bh_targetid_blue"
     }
 
     "TargetIDBG_Spec_Blue"
     {
         "pin_to_sibling"                                            "SpectatorGUIHealth"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "0"
         "ypos"                                                      "0"
@@ -134,14 +127,12 @@
         "draw_corner_width"                                         "0"
         "draw_corner_height"                                        "0"
 
-        "image"                                                     "replay/thumbnails/team_colors/bh_targetid_blue"
+        "image"                                                     "replay/thumbnails/general_icons/bh_targetid_blue"
     }
 
     "TargetIDBG_Spec_Red"
     {
         "pin_to_sibling"                                            "SpectatorGUIHealth"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "0"
         "ypos"                                                      "0"
@@ -152,7 +143,7 @@
         "draw_corner_width"                                         "0"
         "draw_corner_height"                                        "0"
 
-        "image"                                                     "replay/thumbnails/team_colors/bh_targetid_red"
+        "image"                                                     "replay/thumbnails/general_icons/bh_targetid_red"
     }
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////

@@ -23,7 +23,6 @@
     // #users Customization
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     #base   "../#users/dane/resource/clientscheme_colors.res"
-    #base   "../#users/ly_dee/resource/clientscheme_colors.res"
     #base   "../#users/truktruk/resource/clientscheme_colors.res"
     #base   "../#users/jayhyunpae/#customization/_enabled/bh_crosshairs_tf2crosshairs.res"
     #base   "../#users/jayhyunpae/resource/clientscheme_colors.res"
@@ -40,6 +39,8 @@
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     // budhud - Fonts
     ////////////////////////////////////////////////////////////////////////////////////////////////////
+    // #base   "../_budhud/resource/clientscheme_tf2build.res"
+    #base   "../_stream/resource/clientscheme_blocks.res"
     #base   "../_budhud/resource/clientscheme_lato.res"
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
