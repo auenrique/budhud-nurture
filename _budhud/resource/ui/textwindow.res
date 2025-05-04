@@ -30,7 +30,7 @@
         "font"                                                      "bh_Font12"
         "fgcolor"                                                   "bh_white"
 
-        "image_box"                                                 "replay/thumbnails/team_colors/bh_fill_white"
+        "image_box"                                                 "replay/thumbnails/general_icons/bh_fill_white"
         "image_line"                                                ""
         "image_up_arrow"                                            "replay/thumbnails/menu_icons/arrow_up"
         "image_down_arrow"                                          "replay/thumbnails/menu_icons/arrow_down"
@@ -48,7 +48,8 @@
     {
         "ypos"                                                      "r-6969"
         "visible"                                                   "0"
-        "enabled"                                                   "0"
+        "enabled"                                                   "1" // Must be set to 1, otherwise “default” “0” will not take effect
+        "default"                                                   "0"
     }
 
     "bh_Continue"
@@ -68,6 +69,7 @@
         "labelText"                                                 "#bh_Continue_QK"
         "font"                                                      "bh_Font12"
         "textAlignment"                                             "center"
+        "default"                                                   "1"
         "Command"                                                   "okay"
 
         "defaultBgColor_override"                                   "bh_Theme_BG20"

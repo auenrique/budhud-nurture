@@ -1,17 +1,16 @@
-    ////////////////////////////////////////////////////////////////////////////////////////////////////
-    // Disconnect Confirmation
-    ////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////
+// Disconnect Confirmation - Local game, community
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#base   "confirmdialog.res"
 
-    #base   "bh_confirmbase.res"
-
-"Resource/UI/ConfirmDialogAbandonSafe.res"
+"Resource/UI/ConfirmDialogAbandonNoPenalty.res"
 {
-    "ConfirmDialog"
+    "ConfirmDialog" // breaks without
     {
-        "ExplanationLabel"
-        {
-            "xpos"                                                  "5"
-            "textalignment"                                         "west"
-        }
+    }
+
+    "bh_ExplanationLabel"
+    {
+        "ypos"                                                      "cs-6.2"
     }
 }

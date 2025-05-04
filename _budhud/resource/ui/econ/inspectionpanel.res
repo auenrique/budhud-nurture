@@ -18,7 +18,6 @@
 
         "text_ypos"                                                 "5"
         "text_forcesize"                                            "4"
-
     }
 
     "CloseButton"
@@ -28,20 +27,54 @@
         "enabled"                                                   "0"
     }
 
+    "TeamNavPanel"
+    {
+        "ypos"                                                      "25"
+
+        "consume_mode"
+        {
+            "ypos"                                                  "25"
+        }
+    }
+
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     // This controls the war paint preview item/seed/view on market UI
     ////////////////////////////////////////////////////////////////////////////////////////////////////
 
     "PaintkitPreviewContainer"
     {
+        //"ypos"                                                      "r130"
+        //"tall"                                                      "2"
         "border"                                                    "bh_blank"
         "bgcolor_override"                                          "bh_Theme_BG30"
 
         ////////////////////////////////////////////////////////////////////////////////////////////////////
-        // consume_mode is specifically for the UI that appears when you're redeeming a war paint
+        // The below entries are specifically for the UI that appears when you're redeeming a war paint
+        // fyi, hard material reloads while messing with these likes to crash tf2 lol (usually after the
+        // third reload)
+        // also yeah i don't know why the fixed_ ones have to use different values than consume_mode
+        // seems like the warpaint consume panel gets pushed down overall for some reason. 2 layz
         ////////////////////////////////////////////////////////////////////////////////////////////////////
         "consume_mode"
         {
+            "ypos"                                                  "r60"
+            "tall"                                                  "60"
+            "border"                                                "bh_blank"
+            "bgcolor_override"                                      "bh_Theme_BG30"
+        }
+
+        "fixed_item"
+        {
+            "ypos"                                                  "r71"
+            "tall"                                                  "60"
+            "border"                                                "bh_blank"
+            "bgcolor_override"                                      "bh_Theme_BG30"
+        }
+
+        "fixed_paintkit"
+        {
+            "ypos"                                                  "r71"
+            "tall"                                                  "60"
             "border"                                                "bh_blank"
             "bgcolor_override"                                      "bh_Theme_BG30"
         }
@@ -80,11 +113,19 @@
         }
     }
 
+    "ItemName"
+    {
+        "consume_mode"
+        {
+            "ypos"                                                  "0"
+        }
+    }
+
     "ModelInspectionPanel"
     {
-        "ypos"                                                      "25"
+        "ypos"                                                      "65"
         "wide"                                                      "f0"
-        "tall"                                                      "225"
+        "tall"                                                      "240"
 
         "inventory_image_type"                                      "1"
         "force_use_model"                                           "1"
@@ -103,5 +144,49 @@
             "angles_y"                                              "115"       // 180 starts item facing at user, intimidatingly
             "angles_z"                                              "0"
         }
+
+        "consume_mode"
+        {
+            "ypos"                                                  "95"
+        }
+    }
+
+    "bh_Background"
+    {
+        "ControlName"                                               "ImagePanel"
+        "fieldName"                                                 "bh_Background"
+        "xpos"                                                      "0"
+        "ypos"                                                      "0"
+        "zpos"                                                      "0"
+        "wide"                                                      "f0"
+        "tall"                                                      "f0"
+        "autoResize"                                                "0"
+        "pinCorner"                                                 "0"
+        "labeltext"                                                 ""
+        "visible"                                                   "1"
+        "enabled"                                                   "1"
+        "fillcolor"                                                 "bh_Theme_BG20"
+        "image"                                                     ""
+        "paintbackgroundtype"                                       "0"
+    }
+
+    "bh_BackgroundFooter"
+    {
+        "ControlName"                                               "ImagePanel"
+        "fieldName"                                                 "bh_BackgroundFooter"
+        "xpos"                                                      "0"
+        "ypos"                                                      "420"
+        "zpos"                                                      "1"
+        "wide"                                                      "f0"
+        "tall"                                                      "61"
+        "autoResize"                                                "0"
+        "pinCorner"                                                 "0"
+        "labeltext"                                                 ""
+        "visible"                                                   "1"
+        "enabled"                                                   "1"
+        "fillcolor"                                                 "bh_Theme_BG20"
+        "border"                                                    "bh_b_N"
+        "image"                                                     ""
+        "paintbackgroundtype"                                       "0"
     }
 }
