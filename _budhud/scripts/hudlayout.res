@@ -13,17 +13,17 @@
 
     "HudDamageIndicator"
     {
-        "fieldName"                                                 "HudDamageIndicator"        // Remove everything besides
-        "visible"                                                   "1"                         //
-        "enabled"                                                   "1"                         //  "HudDamageIndicator
-        "MinimumWidth"                                              "7"                         //  {
-        "MaximumWidth"                                              "24"                        //  }   "
-        "StartRadius"                                               "80"                        //
-        "EndRadius"                                                 "80"                        // To get the default back
-        "MinimumHeight"                                             "40"                        //
-        "MaximumHeight"                                             "70"                        //
-        "MinimumTime"                                               "1"                         //
-        "Noise"                                                     "0"                         // 0 removes noise from direction, improving accuracy
+        "fieldName"                                                 "HudDamageIndicator"
+        "visible"                                                   "1"
+        "enabled"                                                   "1"
+        "MinimumWidth"                                              "7"
+        "MaximumWidth"                                              "24"
+        "StartRadius"                                               "80"
+        "EndRadius"                                                 "80"
+        "MinimumHeight"                                             "40"
+        "MaximumHeight"                                             "70"
+        "MinimumTime"                                               "1"
+        "Noise"                                                     "0" // 0 removes noise from direction, improving accuracy
     }
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -132,6 +132,13 @@
         "tall"                                                      "19"
     }
 
+//    "HudMenu" // Change voice menu font
+//    {
+//        "TextFont"                                                  "bh_Font14"
+//        "ItemFont"                                                  "bh_Font14"
+//        "ItemFontPulsing"                                           "bh_Font14"
+//    }
+
     "HudMenuEngyBuild"
     {
         "visible"                                                   "1"
@@ -204,6 +211,24 @@
         "ypos"                                                      "r34"
     }
 
+    "HudArenaPlayerCount"
+    {
+        "ypos"                                                      "15"
+    }
+
+    "ArenaWinPanel"
+    {
+        "xpos"                                                      "c-225"
+        "ypos"                                                      "260"
+        "wide"                                                      "450"
+        "tall"                                                      "300"
+    }
+
+    "HudArenaClassLayout"
+    {
+        "zpos"                                                      "1"
+    }
+
     "HudItemEffectMeter"
     {
         "xpos"                                                      "0"
@@ -253,7 +278,7 @@
     "CDamageAccountPanel"
     {
         "xpos"                                                      "2"
-        "ypos"                                                      "10"
+        "ypos"                                                      "22"
         "tall"                                                      "f0"
     }
 
@@ -313,14 +338,11 @@
 
     "BuildingStatus_Engineer"
     {
+        "pin_to_sibling"                                            "bh_BuildPin"
         "xpos"                                                      "0"
         "ypos"                                                      "0"
         "wide"                                                      "f0"
         "tall"                                                      "f0"
-
-        "pin_to_sibling"                                            "bh_BuildPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -331,7 +353,7 @@
     "HudDeathNotice"
     {
         "xpos"                                                      "r638"
-        "ypos"                                                      "18"
+        "ypos"                                                      "30"
         "wide"                                                      "628"
         "tall"                                                      "468"
 
@@ -356,8 +378,6 @@
     "HudCloseCaption"
     {
         "pin_to_sibling"                                            "HudWeaponAmmo"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "-180"
         "ypos"                                                      "-55"
@@ -407,7 +427,7 @@
 
     "HudHintDisplay"
     {
-        "ypos"                                                      "c100"
+        "ypos"                                                      "r110"
         "zpos"                                                      "5"
         "wide"                                                      "480"
         "tall"                                                      "100"
@@ -440,14 +460,6 @@
         "tall"                                                      "300"
     }
 
-    "ArenaWinPanel"
-    {
-        "xpos"                                                      "c-225"
-        "ypos"                                                      "260"
-        "wide"                                                      "450"
-        "tall"                                                      "300"
-    }
-
     "HudChat"
     {
         "xpos"                                                      "50"
@@ -455,14 +467,6 @@
         "wide"                                                      "320"
         "tall"                                                      "120"
         "PaintBackgroundType"                                       "2"
-    }
-
-    "HudMenuSpyDisguise"
-    {
-        "xpos"                                                      "c-230"
-        "ypos"                                                      "c-65"
-        "wide"                                                      "500"
-        "tall"                                                      "250"
     }
 
     "HudDemomanPipes"

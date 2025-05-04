@@ -1,12 +1,12 @@
 "Resource/UI/winpanel.res"
 {
     ////////////////////////////////////////////////////////////////////////////////////////////////////
-    // image field must be background_upward_widescreen
+    // image field must be background01_widescreen
     ////////////////////////////////////////////////////////////////////////////////////////////////////
 
     "bh_LoadingBackground"
     {
-        "image"                                                     "../console/background_upward_widescreen"
+        "image"                                                     "../console/background01_widescreen"
         "fillcolor"                                                 "bh_blank"
     }
 
@@ -25,7 +25,7 @@
         "tall"                                                      "f0"
         "visible"                                                   "1"
         "enabled"                                                   "1"
-        "image"                                                     "../console/background_upward_widescreen"
+        "image"                                                     "../console/background01_widescreen"
         "scaleImage"                                                "1"
     }
 }

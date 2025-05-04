@@ -17,9 +17,6 @@
     "DisguiseStatusBG"
     {
         "pin_to_sibling"                                            "bh_DisguisePin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-
         "xpos"                                                      "0"
         "ypos"                                                      "-18"
         "zpos"                                                      "-1"
@@ -34,9 +31,6 @@
     "DisguiseNameLabel"
     {
         "pin_to_sibling"                                            "bh_DisguisePin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-
         "textalignment"                                             "west"
         "xpos"                                                      "-44"
         "ypos"                                                      "4"
@@ -48,9 +42,6 @@
     "bh_DisguiseNameLabelShadow"
     {
         "pin_to_sibling"                                            "DisguiseNameLabel"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-
         "ControlName"                                               "Label"
         "fieldName"                                                 "bh_DisguiseNameLabelShadow"
         "font"                                                      "bh_Font12"
@@ -69,9 +60,6 @@
     "WeaponNameLabel"
     {
         "pin_to_sibling"                                            "bh_DisguisePin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-
         "textalignment"                                             "west"
         "xpos"                                                      "-44"
         "ypos"                                                      "-7"
@@ -83,9 +71,6 @@
     "bh_WeaponNameLabelShadow"
     {
         "pin_to_sibling"                                            "WeaponNameLabel"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-
         "ControlName"                                               "Label"
         "fieldName"                                                 "bh_WeaponNameLabelShadow"
         "font"                                                      "bh_Font12"
@@ -104,11 +89,9 @@
     "SpectatorGUIHealth"
     {
         "pin_to_sibling"                                            "bh_DisguisePin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
-
         "xpos"                                                      "0"
         "ypos"                                                      "0"
-        "wide"                                                      "60"
+        "wide"                                                      "40"
+        "tall"                                                      "18"
     }
 }

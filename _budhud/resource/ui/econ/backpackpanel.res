@@ -105,8 +105,6 @@
     "ShowBaseItemsCheckbox"
     {
         "pin_to_sibling"                                            "NameFilterTextEntry"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "-117"
         "ypos"                                                      "3"
@@ -118,8 +116,6 @@
     "bh_ImproveItemQuality"
     {
         "pin_to_sibling"                                            "NameFilterTextEntry"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "-214"
         "ypos"                                                      "0"
@@ -173,15 +169,12 @@
     "ShowRarityComboBox"
     {
         "pin_to_sibling"                                            "NameFilterTextEntry"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "-318"
         "ypos"                                                      "0"
         "wide"                                                      "150"
         "font"                                                      "bh_Font10"
 
-        "border_override"                                           "bh_b_NESW"
         "fgcolor_override"                                          "bh_white"
         "selectionColor_override"                                   "bh_Theme_TextAccent"
         "selectionTextColor_override"                               "bh_white"
@@ -201,14 +194,11 @@
     "SortByComboBox"
     {
         "pin_to_sibling"                                            "NameFilterTextEntry"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "-472"
         "ypos"                                                      "0"
         "wide"                                                      "100"
 
-        "border_override"                                           "bh_b_NESW"
         "fgcolor_override"                                          "bh_white"
         "selectionColor_override"                                   "bh_Theme_TextAccent"
         "selectionTextColor_override"                               "bh_white"
@@ -227,6 +217,10 @@
 
     "CancelApplyToolButton"
     {
+        "xpos"                                                      "c-50"
+        "ypos"                                                      "333"
+        "zpos"                                                      "0"
+
         "defaultBgColor_override"                                   "bh_Theme_BG20"
         "armedBgColor_override"                                     "bh_Theme_BG30"
         "depressedBgColor_override"                                 "bh_Theme_BG30"

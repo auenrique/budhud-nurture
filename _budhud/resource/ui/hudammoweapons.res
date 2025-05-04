@@ -18,17 +18,20 @@
     {
         "ControlName"                                               "CExLabel"
         "fieldName"                                                 "bh_AmmoBG"
-        "xpos"                                                      "85"
-        "ypos"                                                      "55"
+        "xpos"                                                      "cs-0.5"
+        "ypos"                                                      "cs-0.5"
         "zpos"                                                      "-6969"
-        "wide"                                                      "81"
+        "wide"                                                      "100"
         "tall"                                                      "42"
         "autoResize"                                                "0"
         "pinCorner"                                                 "0"
         "labeltext"                                                 ""
-        "visible"                                                   "0"
-        "enabled"                                                   "0"
+        "visible"                                                   "1"
+        "enabled"                                                   "1"
+        "alpha"                                                     "0"
         "bgcolor_override"                                          "bh_HealthBox_Base"
+        "paintbackgroundtype"                                       "2"
+        "proportionaltoparent"                                      "1"
     }
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -38,20 +41,19 @@
 
     "AmmoInClip"
     {
-        "xpos"                                                      "-19"
-        "ypos"                                                      "0"
+        "xpos"                                                      "-23"
+        "ypos"                                                      "cs-0.5"
         "wide"                                                      "250"
         "tall"                                                      "150"
         "font"                                                      "bh_Font_HealthAmmoMain"
         "fgcolor"                                                   "bh_Ammo_Main"
         "textAlignment"                                             "center"
+        "proportionaltoparent"                                      "1"
     }
 
     "AmmoInClipShadow"
     {
         "pin_to_sibling"                                            "AmmoInClip"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "-1"
         "ypos"                                                      "-1"
@@ -64,21 +66,20 @@
 
     "AmmoInReserve"
     {
-        "xpos"                                                      "140"
-        "ypos"                                                      "0"
+        "xpos"                                                      "135"
+        "ypos"                                                      "cs-0.5"
         "zpos"                                                      "6"
         "wide"                                                      "250"
         "tall"                                                      "150"
         "font"                                                      "bh_Font_AmmoReserve"
         "fgcolor"                                                   "bh_Ammo_Reserve"
         "textAlignment"                                             "west"
+        "proportionaltoparent"                                      "1"
     }
 
     "AmmoInReserveShadow"
     {
         "pin_to_sibling"                                            "AmmoInReserve"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "-1"
         "ypos"                                                      "-1"
@@ -96,20 +97,19 @@
 
     "AmmoNoClip"
     {
-        "xpos"                                                      "0"
-        "ypos"                                                      "0"
+        "xpos"                                                      "cs-0.5"
+        "ypos"                                                      "cs-0.5"
         "wide"                                                      "250"
         "tall"                                                      "150"
         "font"                                                      "bh_Font_HealthAmmoMain"
         "fgcolor"                                                   "bh_Ammo_Main"
         "textAlignment"                                             "center"
+        "proportionaltoparent"                                      "1"
     }
 
     "AmmoNoClipShadow"
     {
         "pin_to_sibling"                                            "AmmoNoClip"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
 
         "xpos"                                                      "-1"
         "ypos"                                                      "-1"

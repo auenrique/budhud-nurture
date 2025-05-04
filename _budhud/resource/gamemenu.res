@@ -38,14 +38,12 @@
         "label"                                                     "— nurture —"
         "command"                                                   "engine con_enable 1;showconsole;clear;
                                                                     echo ======================================================;
-                                                                    echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
                                                                     echo ~~~~~~~~~~~~~~~~~ budhud, by Whisker ~~~~~~~~~~~~~~~~~;
-																	echo ~~~~~~~~~~~~~~ edits by nurture/ideknoo ~~~~~~~~~~~~~~;
-                                                                    echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+                                                                    echo ~~~~~~~~~~~~~~ edits by nurture/ideknoo ~~~~~~~~~~~~~~;
                                                                     echo ======================================================;
                                                                     echo ~~~~~~~~~~~~ github.com/rbjaxter/budhud ~~~~~~~~~~~~~~;
-                                                                    echo ~~~~~~~~~ steamcommunity.com/groups/budhud ~~~~~~~~~~~;
                                                                     echo ~~~~~~~~~~~~~ discord.com/invite/TkxNKU2 ~~~~~~~~~~~~~;
+                                                                    echo ~~~~~~~~~ steamcommunity.com/groups/budhud ~~~~~~~~~~~;
                                                                     echo ======================================================;
                                                                     echo ~~~~~~~~~~ steamcommunity.com/id/ideknoo/ ~~~~~~~~~~~~;
                                                                     echo ~~~~~~~~~~~~~~~~~ discord: nurtured ~~~~~~~~~~~~~~~~~~;
@@ -54,7 +52,7 @@
                                                                     echo *~*~*~*~* everything we need is already here *~*~*~*~*;
                                                                     echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
                                                                     echo ======================================================;"
-        "tooltip"                                                   "updated october 2023"
+        "tooltip"                                                   "updated may 2025"
     }
 
     "bh_Streams"
