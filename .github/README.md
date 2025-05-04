@@ -13,7 +13,7 @@ Modified version of budhud, made by nurture/ideknoo
 * lowercase aesthetics
 
 ### Gameplay
-* Modified reserved ammo color (RGBA: 60 255 80 255)
+* Modified reserved ammo color (RGBA: 60 255 180 255)
 * Modified killfeed text (taken from <a href="https://github.com/Pigby/uwui">uwui</a>)
 
 ## Installation and Customization
