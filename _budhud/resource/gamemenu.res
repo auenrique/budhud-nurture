@@ -39,8 +39,7 @@
         "command"                                                   "engine con_enable 1;showconsole;clear;
                                                                     echo ======================================================;
                                                                     echo ~~~~~~~~~~~~~~~~~ budhud, by Whisker ~~~~~~~~~~~~~~~~~;
-																	echo ~~~~~~~~~~~~~~ edits by nurture/ideknoo ~~~~~~~~~~~~~~;
-                                                                    echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+                                                                    echo ~~~~~~~~~~~~~~ edits by nurture/ideknoo ~~~~~~~~~~~~~~;
                                                                     echo ======================================================;
                                                                     echo ~~~~~~~~~~~~ github.com/rbjaxter/budhud ~~~~~~~~~~~~~~;
                                                                     echo ~~~~~~~~~~~~~ discord.com/invite/TkxNKU2 ~~~~~~~~~~~~~;

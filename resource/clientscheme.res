@@ -41,8 +41,8 @@
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     // #base   "../_budhud/resource/clientscheme_tf2build.res"
     //#base   "../_budhud/resource/clientscheme_lato.res"
-    #base "../_budhud/resource/bh_lexend.res"
     #base   "../_stream/resource/clientscheme_blocks.res"
+    #base   "../_budhud/resource/bh_lexend.res"
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     // budhud - Core

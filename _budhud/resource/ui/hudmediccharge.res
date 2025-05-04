@@ -131,7 +131,7 @@
         "tall"                                                      "150"
         "labeltext"                                                 "#TF_IndividualUberchargesMinHUD"
         "font"                                                      "bh_Medic"
-        "fgcolor"                                                   "bh_white"
+        "fgcolor"                                                   "bh_UberLabel_Base"
         "textalignment"                                             "center"
     }
 
@@ -145,7 +145,7 @@
         "tall"                                                      "150"
         "textAlignment"                                             "center"
         "font"                                                      "bh_Medic"
-        "fgcolor"                                                   "bh_white"
+        "fgcolor"                                                   "bh_UberLabel_Base"
     }
 
     "ResistIcon"

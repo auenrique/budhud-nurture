@@ -411,26 +411,20 @@
         //     "font"    "resource/fonts/my-cool-font.ttf"
         //     "name"    "my cool font"
         // }
-        
-        "58" // Fog's Crosshairs
-        {
-            "font"          "resource/fonts/crosshairs-fog.ttf"
-            "name"          "Crosshairs Regular"
-        }
 
-        "59" // Lexend Deca Larger
+        "58" // Lexend Deca Larger
 		{
 			"font"			"resource/fonts/Lexend Deca Larger.ttf"
 			"name"			"Lexend Deca Larger"
 		}
 
-        "60" // Lexend Deca Bold
+        "59" // Lexend Deca Bold
 		{
 			"font"			"resource/fonts/Lexend Deca Bold.ttf"
 			"name"			"Lexend Deca Bold"
 		}
 		
-		"61" // Lexend Deca Light
+		"60" // Lexend Deca Light
 		{
 			"font"			"resource/fonts/Lexend Deca Light.ttf"
 			"name"			"Lexend Deca Light"
