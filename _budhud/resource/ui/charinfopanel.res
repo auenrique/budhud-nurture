@@ -90,7 +90,7 @@
         "tabwidth"                                                  "240"       // Tab width
         "tabheight"                                                 "20"        // Tab height
         "transition_time"                                           "0"         // Fade in between tabs
-        "yoffset"                                                   "14"        // Tab distance from top of screen
+        "yoffset"                                                   "0"        // Tab distance from top of screen
 
         "HeaderLine"
         {
